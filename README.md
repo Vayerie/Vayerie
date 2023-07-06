@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://instagram.com/cy_12.29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cy_12.29" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/vayerie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="vayerie" height="30" width="40" /></a>
-<a href="[https://discord.gg/https://discordapp.com/users/150282922182705162](https://discordapp.com/users/150282922182705162)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discordapp.com/users/150282922182705162" height="30" width="40" /></a>
+<a href="[[https://discord.gg/https://discordapp.com/users/150282922182705162]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discordapp.com/users/150282922182705162" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
