@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.discordapp.com/attachments/892734896861237258/1126506970577375253/banner_1.png)]
+[MasterHead](https://cdn.discordapp.com/attachments/892734896861237258/1126506970577375253/banner_1.png)
 <h1 align="center">Hi 👋, I'm Evelyn Nakamura</h1>
 <h3 align="center">A developer from Japan</h3>
 
