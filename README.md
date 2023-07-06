@@ -1,7 +1,6 @@
 [![MasterHead](https://cdn.discordapp.com/attachments/892734896861237258/1126506970577375253/banner_1.png)]
 <h1 align="center">Hi 👋, I'm Evelyn Nakamura</h1>
 <h3 align="center">A developer from Japan</h3>
-(img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://i.pinimg.com/564x/aa/5c/73/aa5c730b8f7608898e916cecabc28cac.jpg)")
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vayerie&label=Profile%20views&color=0e75b6&style=flat" alt="vayerie" /> </p>
